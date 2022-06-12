@@ -1,0 +1,10 @@
+name: ActionTest
+on: [push]
+jobs:
+  Test:
+   runs-on: ubuntu-latest
+   steps:
+     - uses: actions/checkout@v1
+     - name: Test hw8
+       run: 
+          cat ${{ github.workspace }}/hw8/GithubAction/ActionTest.java
