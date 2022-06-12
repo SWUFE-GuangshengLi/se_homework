@@ -5,6 +5,6 @@ jobs:
    runs-on: ubuntu-latest
    steps:
      - uses: actions/checkout@v1
-     - name: Test SimpleTest
+     - name: GithubActionTest
        run: 
           cat ${{ github.workspace }}/hw1/MyTest1.java
