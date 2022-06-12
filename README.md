@@ -1,3 +1,4 @@
+[![ActionTest](https://github.com/SWUFE-GuangshengLi/se_homework/actions/workflows/demo.yml/badge.svg)](https://github.com/SWUFE-GuangshengLi/se_homework/actions/workflows/demo.yml)
 # se_homework
 ## 软件工程
 学号：41911006
